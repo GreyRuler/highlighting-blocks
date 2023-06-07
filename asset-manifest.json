@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/highlighting-blocks/static/css/main.5f83305d.css",
+    "main.js": "/highlighting-blocks/static/js/main.dfca9638.js",
+    "static/js/787.cc2c4b36.chunk.js": "/highlighting-blocks/static/js/787.cc2c4b36.chunk.js",
+    "index.html": "/highlighting-blocks/index.html",
+    "main.5f83305d.css.map": "/highlighting-blocks/static/css/main.5f83305d.css.map",
+    "main.dfca9638.js.map": "/highlighting-blocks/static/js/main.dfca9638.js.map",
+    "787.cc2c4b36.chunk.js.map": "/highlighting-blocks/static/js/787.cc2c4b36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f83305d.css",
+    "static/js/main.dfca9638.js"
+  ]
+}
